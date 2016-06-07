@@ -1,0 +1,21 @@
+h1 {
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	display: inline-block;
+	float: right;
+	color: $primaryColor;
+	margin-top: 3px;
+}
+
+p {
+	font-family: arial, sans-serif;
+	float: left;
+	color: $primaryColor;
+}
+
+ul {
+	display: block;
+	margin:0;
+	padding:0;
+}
